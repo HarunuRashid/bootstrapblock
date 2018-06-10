@@ -3,3 +3,15 @@
     background: #fafafa;
     margin-bottom: 20px;
 }
+.align-items-check 
+{
+    height:100px;
+    background-color: azure;
+    border: 1px solid red;
+}
+.align-column-check 
+{
+    height:100px;
+    background-color: gold;
+    border: 1px solid #444444;
+}
