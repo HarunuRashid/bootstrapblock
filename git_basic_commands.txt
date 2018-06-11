@@ -1,5 +1,17 @@
 Git Commands:
 
+Git: configurations
+
+$ git config --global user.name "FirstName LastName"
+$ git config --global user.email "email@domain.com"
+$ git config --global color.ui true
+$ git config --list
+
+Git: Starting a repository
+$ git init
+$ git status
+
+
 1. pwd
 2. git status
 3. dir
