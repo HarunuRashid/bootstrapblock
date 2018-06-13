@@ -11,6 +11,13 @@ Git: Starting a repository
 $ git init
 $ git status
 
+Git: branch
+$ git branch
+$ git branch master1
+$ git checkout feature1
+
+
+
 
 1. pwd
 2. git status
